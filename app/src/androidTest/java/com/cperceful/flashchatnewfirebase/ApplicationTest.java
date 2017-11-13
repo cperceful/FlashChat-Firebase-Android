@@ -1,4 +1,4 @@
-package com.londonappbrewery.flashchatnewfirebase;
+package com.cperceful.flashchatnewfirebase;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
